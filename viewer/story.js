@@ -168,6 +168,17 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
+			"x": 133,
+			"y": 122,
+			"width": 148.18181818181802,
+			"height": 60
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 1
+	},
+	{
+		"rect": {
 			"x": 339.5,
 			"y": 88.25,
 			"width": 25,
@@ -175,7 +186,7 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
-		"index": 1
+		"index": 2
 	}
 ],
 })
@@ -211,6 +222,17 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
+			"x": 133,
+			"y": 122,
+			"width": 148.18181818181802,
+			"height": 60
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 1
+	},
+	{
+		"rect": {
 			"x": 339.5,
 			"y": 88.25,
 			"width": 25,
@@ -218,7 +240,7 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
-		"index": 1
+		"index": 2
 	}
 ],
 })
@@ -254,6 +276,17 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
+			"x": 133,
+			"y": 122,
+			"width": 148.18181818181802,
+			"height": 60
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 1
+	},
+	{
+		"rect": {
 			"x": 339.5,
 			"y": 88.25,
 			"width": 25,
@@ -261,7 +294,7 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
-		"index": 1
+		"index": 2
 	}
 ],
 })
@@ -297,6 +330,17 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
+			"x": 133,
+			"y": 122,
+			"width": 148.18181818181802,
+			"height": 60
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 1
+	},
+	{
+		"rect": {
 			"x": 339.5,
 			"y": 88.25,
 			"width": 25,
@@ -304,7 +348,7 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
-		"index": 1
+		"index": 2
 	}
 ],
 })
@@ -329,6 +373,17 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
+			"x": 133,
+			"y": 122,
+			"width": 148.18181818181802,
+			"height": 60
+		},
+		"isParentFixed": false,
+		"page": 0,
+		"index": 0
+	},
+	{
+		"rect": {
 			"x": 339.5,
 			"y": 88.25,
 			"width": 25,
@@ -336,7 +391,7 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
-		"index": 0
+		"index": 1
 	}
 ],
 })
