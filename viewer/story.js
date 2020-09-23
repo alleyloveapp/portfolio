@@ -479,7 +479,7 @@ $.extend(new ViewerPage(),{
 ,"resolutions": [2],
 "zoomEnabled": true,
 "title": "921-protfolio-app ",
-"startPageIndex": 7,
+"startPageIndex": 0,
 "layersExist": true,
 "centerContent":  false,
 "totalImages": 12,
