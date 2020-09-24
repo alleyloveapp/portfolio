@@ -1,5 +1,5 @@
 var story = {
-"docName": "921-protfolio-app-",
+"docName": "924-protfolio-app",
 "docPath": "P_P_P",
 "docVersion": "V_V_V",
 "hasRetina": true,
@@ -28,24 +28,24 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 313,
-			"y": 707,
-			"width": 43,
-			"height": 25
-		},
-		"isParentFixed": false,
-		"page": 1,
-		"index": 0
-	},
-	{
-		"rect": {
-			"x": 125,
-			"y": 591,
-			"width": 119,
+			"x": 71,
+			"y": 602,
+			"width": 158,
 			"height": 19
 		},
 		"isParentFixed": false,
 		"page": 3,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 253,
+			"y": 711,
+			"width": 112,
+			"height": 25
+		},
+		"isParentFixed": false,
+		"page": 1,
 		"index": 1
 	}
 ],
@@ -103,9 +103,9 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 197,
+			"x": 158,
 			"y": 412,
-			"width": 119,
+			"width": 139,
 			"height": 19
 		},
 		"isParentFixed": false,
@@ -114,9 +114,9 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
-			"x": 197,
+			"x": 185,
 			"y": 378,
-			"width": 74,
+			"width": 86,
 			"height": 19
 		},
 		"isParentFixed": false,
@@ -125,8 +125,8 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
-			"x": 115,
-			"y": 265,
+			"x": 135,
+			"y": 246,
 			"width": 185,
 			"height": 75
 		},
@@ -137,7 +137,7 @@ $.extend(new ViewerPage(),{
 ],
 })
 ,$.extend(new ViewerPage(),{
-"id" : "36BD8903-2A2F-48E0-BBF5-DB8A56CB0AB7",
+"id" : "2B58F036-5D3A-4681-8828-1DA43376AFAA",
 "index": 3,
 "image": "weebsite_design_1.png",
 "image2x": "weebsite_design_1@2x.png",
@@ -157,20 +157,20 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 191,
-			"y": 593,
-			"width": 33,
-			"height": 33
+			"x": 325,
+			"y": 716,
+			"width": 83,
+			"height": 36
 		},
 		"isParentFixed": false,
-		"page": 5,
+		"page": 4,
 		"index": 0
 	},
 	{
 		"rect": {
 			"x": 133,
-			"y": 122,
-			"width": 148.18181818181802,
+			"y": 125,
+			"width": 148.19277108433744,
 			"height": 60
 		},
 		"isParentFixed": false,
@@ -191,7 +191,7 @@ $.extend(new ViewerPage(),{
 ],
 })
 ,$.extend(new ViewerPage(),{
-"id" : "8A61DB9D-C1E6-46FA-A193-152A1933520A",
+"id" : "3B2BCCEA-CD6D-469F-AF7A-7E735E9EF24C",
 "index": 4,
 "image": "weebsite_design_2.png",
 "image2x": "weebsite_design_2@2x.png",
@@ -211,24 +211,24 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 191,
-			"y": 593,
-			"width": 33,
-			"height": 33
-		},
-		"isParentFixed": false,
-		"page": 5,
-		"index": 0
-	},
-	{
-		"rect": {
 			"x": 133,
-			"y": 122,
-			"width": 148.18181818181802,
+			"y": 125,
+			"width": 148.19277108433744,
 			"height": 60
 		},
 		"isParentFixed": false,
 		"page": 0,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 325,
+			"y": 716,
+			"width": 83,
+			"height": 36
+		},
+		"isParentFixed": false,
+		"page": 5,
 		"index": 1
 	},
 	{
@@ -245,7 +245,7 @@ $.extend(new ViewerPage(),{
 ],
 })
 ,$.extend(new ViewerPage(),{
-"id" : "CB96BD02-F04B-4838-B1D5-F77557AFBDF1",
+"id" : "15FCF388-4A9D-4989-9C19-E9B8EA44D025",
 "index": 5,
 "image": "weebsite_design_3.png",
 "image2x": "weebsite_design_3@2x.png",
@@ -265,24 +265,24 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 191,
-			"y": 725,
-			"width": 33,
-			"height": 33
-		},
-		"isParentFixed": false,
-		"page": 6,
-		"index": 0
-	},
-	{
-		"rect": {
 			"x": 133,
-			"y": 122,
-			"width": 148.18181818181802,
+			"y": 125,
+			"width": 148.19277108433744,
 			"height": 60
 		},
 		"isParentFixed": false,
 		"page": 0,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 325,
+			"y": 709,
+			"width": 83,
+			"height": 36
+		},
+		"isParentFixed": false,
+		"page": 6,
 		"index": 1
 	},
 	{
@@ -299,7 +299,7 @@ $.extend(new ViewerPage(),{
 ],
 })
 ,$.extend(new ViewerPage(),{
-"id" : "A628FD1E-A1F5-46F5-B507-B06D609B0EE3",
+"id" : "F098674B-BB96-4B48-A114-B66DC4FD6655",
 "index": 6,
 "image": "weebsite_design_4.png",
 "image2x": "weebsite_design_4@2x.png",
@@ -319,24 +319,24 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 191,
-			"y": 725.0000000000001,
-			"width": 33,
-			"height": 33
-		},
-		"isParentFixed": false,
-		"page": 7,
-		"index": 0
-	},
-	{
-		"rect": {
 			"x": 133,
-			"y": 122,
-			"width": 148.18181818181802,
+			"y": 125,
+			"width": 148.19277108433744,
 			"height": 60
 		},
 		"isParentFixed": false,
 		"page": 0,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 325,
+			"y": 716,
+			"width": 83,
+			"height": 36
+		},
+		"isParentFixed": false,
+		"page": 7,
 		"index": 1
 	},
 	{
@@ -353,7 +353,7 @@ $.extend(new ViewerPage(),{
 ],
 })
 ,$.extend(new ViewerPage(),{
-"id" : "AFACC503-3D5F-4BBC-9516-B8D7D127F685",
+"id" : "0C717958-EDF8-40F6-B8DF-5FAD99CBC8CC",
 "index": 7,
 "image": "weebsite_design_5.png",
 "image2x": "weebsite_design_5@2x.png",
@@ -374,8 +374,8 @@ $.extend(new ViewerPage(),{
 	{
 		"rect": {
 			"x": 133,
-			"y": 122,
-			"width": 148.18181818181802,
+			"y": 125,
+			"width": 148.19277108433744,
 			"height": 60
 		},
 		"isParentFixed": false,
@@ -478,7 +478,7 @@ $.extend(new ViewerPage(),{
    ]
 ,"resolutions": [2],
 "zoomEnabled": true,
-"title": "921-protfolio-app ",
+"title": "924-protfolio-app",
 "startPageIndex": 0,
 "layersExist": true,
 "centerContent":  false,
