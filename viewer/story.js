@@ -1,5 +1,5 @@
 var story = {
-"docName": "924-protfolio-app",
+"docName": "925-protfolio-app",
 "docPath": "P_P_P",
 "docVersion": "V_V_V",
 "hasRetina": true,
@@ -28,10 +28,10 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 71,
-			"y": 602,
-			"width": 158,
-			"height": 19
+			"x": 97,
+			"y": 563,
+			"width": 179,
+			"height": 20
 		},
 		"isParentFixed": false,
 		"page": 3,
@@ -39,14 +39,25 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
-			"x": 253,
+			"x": 97,
+			"y": 601,
+			"width": 180,
+			"height": 21
+		},
+		"isParentFixed": false,
+		"page": 8,
+		"index": 1
+	},
+	{
+		"rect": {
+			"x": 245,
 			"y": 711,
 			"width": 112,
 			"height": 25
 		},
 		"isParentFixed": false,
 		"page": 1,
-		"index": 1
+		"index": 2
 	}
 ],
 })
@@ -103,36 +114,47 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 158,
-			"y": 412,
+			"x": 123,
+			"y": 479,
+			"width": 168,
+			"height": 19
+		},
+		"isParentFixed": false,
+		"page": 8,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 152,
+			"y": 435,
 			"width": 139,
 			"height": 19
 		},
 		"isParentFixed": false,
 		"page": 3,
-		"index": 0
+		"index": 1
 	},
 	{
 		"rect": {
-			"x": 185,
-			"y": 378,
+			"x": 178,
+			"y": 389,
 			"width": 86,
 			"height": 19
 		},
 		"isParentFixed": false,
 		"page": 1,
-		"index": 1
+		"index": 2
 	},
 	{
 		"rect": {
-			"x": 135,
+			"x": 120,
 			"y": 246,
-			"width": 185,
-			"height": 75
+			"width": 173,
+			"height": 70
 		},
 		"isParentFixed": false,
 		"page": 0,
-		"index": 2
+		"index": 3
 	}
 ],
 })
@@ -168,10 +190,10 @@ $.extend(new ViewerPage(),{
 	},
 	{
 		"rect": {
-			"x": 133,
-			"y": 125,
-			"width": 148.19277108433744,
-			"height": 60
+			"x": 136,
+			"y": 122,
+			"width": 143,
+			"height": 58
 		},
 		"isParentFixed": false,
 		"page": 0,
@@ -211,10 +233,10 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 133,
-			"y": 125,
-			"width": 148.19277108433744,
-			"height": 60
+			"x": 136,
+			"y": 122,
+			"width": 143,
+			"height": 58
 		},
 		"isParentFixed": false,
 		"page": 0,
@@ -265,17 +287,6 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 133,
-			"y": 125,
-			"width": 148.19277108433744,
-			"height": 60
-		},
-		"isParentFixed": false,
-		"page": 0,
-		"index": 0
-	},
-	{
-		"rect": {
 			"x": 325,
 			"y": 709,
 			"width": 83,
@@ -283,7 +294,7 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 6,
-		"index": 1
+		"index": 0
 	},
 	{
 		"rect": {
@@ -294,6 +305,17 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
+		"index": 1
+	},
+	{
+		"rect": {
+			"x": 136,
+			"y": 122,
+			"width": 143,
+			"height": 58
+		},
+		"isParentFixed": false,
+		"page": 0,
 		"index": 2
 	}
 ],
@@ -319,17 +341,6 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 133,
-			"y": 125,
-			"width": 148.19277108433744,
-			"height": 60
-		},
-		"isParentFixed": false,
-		"page": 0,
-		"index": 0
-	},
-	{
-		"rect": {
 			"x": 325,
 			"y": 716,
 			"width": 83,
@@ -337,7 +348,7 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 7,
-		"index": 1
+		"index": 0
 	},
 	{
 		"rect": {
@@ -348,6 +359,17 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
+		"index": 1
+	},
+	{
+		"rect": {
+			"x": 136,
+			"y": 122,
+			"width": 143,
+			"height": 58
+		},
+		"isParentFixed": false,
+		"page": 0,
 		"index": 2
 	}
 ],
@@ -373,15 +395,47 @@ $.extend(new ViewerPage(),{
 'links' : [
 	{
 		"rect": {
-			"x": 133,
-			"y": 125,
-			"width": 148.19277108433744,
-			"height": 60
+			"x": 339.5,
+			"y": 88.25,
+			"width": 25,
+			"height": 18
+		},
+		"isParentFixed": false,
+		"page": 2,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 136,
+			"y": 122,
+			"width": 143,
+			"height": 58
 		},
 		"isParentFixed": false,
 		"page": 0,
-		"index": 0
-	},
+		"index": 1
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"id" : "8365DB75-EF0C-49D5-80B9-D901EDD28361",
+"index": 8,
+"image": "graphic_design_1.png",
+"image2x": "graphic_design_1@2x.png",
+"width": 414,
+"height": 834,
+"title": "graphic design-1",
+'transAnimType': 0,
+'layout' : {
+	"offset": 0,
+	"totalWidth": 960,
+	"numberOfColumns": 12,
+	"columnWidth": 60,
+	"gutterWidth": 20
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
 	{
 		"rect": {
 			"x": 339.5,
@@ -391,13 +445,142 @@ $.extend(new ViewerPage(),{
 		},
 		"isParentFixed": false,
 		"page": 2,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 325,
+			"y": 716,
+			"width": 83,
+			"height": 36
+		},
+		"isParentFixed": false,
+		"page": 9,
 		"index": 1
 	}
 ],
 })
 ,$.extend(new ViewerPage(),{
+"id" : "37E0C906-37E8-47E6-BC1E-BECBA1A8B8AD",
+"index": 9,
+"image": "graphic_design_2.png",
+"image2x": "graphic_design_2@2x.png",
+"width": 414,
+"height": 834,
+"title": "graphic design-2",
+'transAnimType': 0,
+'layout' : {
+	"offset": 0,
+	"totalWidth": 960,
+	"numberOfColumns": 12,
+	"columnWidth": 60,
+	"gutterWidth": 20
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 339.5,
+			"y": 88.25,
+			"width": 25,
+			"height": 18
+		},
+		"isParentFixed": false,
+		"page": 2,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 325,
+			"y": 716,
+			"width": 83,
+			"height": 36
+		},
+		"isParentFixed": false,
+		"page": 10,
+		"index": 1
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"id" : "43330CD0-5C20-4BC7-BC06-95E669DA55B9",
+"index": 10,
+"image": "graphic_design_3.png",
+"image2x": "graphic_design_3@2x.png",
+"width": 414,
+"height": 834,
+"title": "graphic design-3",
+'transAnimType': 0,
+'layout' : {
+	"offset": 0,
+	"totalWidth": 960,
+	"numberOfColumns": 12,
+	"columnWidth": 60,
+	"gutterWidth": 20
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 339.5,
+			"y": 88.25,
+			"width": 25,
+			"height": 18
+		},
+		"isParentFixed": false,
+		"page": 2,
+		"index": 0
+	},
+	{
+		"rect": {
+			"x": 325,
+			"y": 716,
+			"width": 83,
+			"height": 36
+		},
+		"isParentFixed": false,
+		"page": 11,
+		"index": 1
+	}
+],
+})
+,$.extend(new ViewerPage(),{
+"id" : "8954CED3-9084-4C08-A721-ABAB3029CD96",
+"index": 11,
+"image": "graphic_design_4.png",
+"image2x": "graphic_design_4@2x.png",
+"width": 414,
+"height": 834,
+"title": "graphic design-4",
+'transAnimType': 0,
+'layout' : {
+	"offset": 0,
+	"totalWidth": 960,
+	"numberOfColumns": 12,
+	"columnWidth": 60,
+	"gutterWidth": 20
+},
+'type': 'regular',
+'fixedPanels': [],
+'links' : [
+	{
+		"rect": {
+			"x": 339.5,
+			"y": 88.25,
+			"width": 25,
+			"height": 18
+		},
+		"isParentFixed": false,
+		"page": 2,
+		"index": 0
+	}
+],
+})
+,$.extend(new ViewerPage(),{
 "id" : "9F4F7F3A-E7B2-4BBB-9F09-3D3DA4363635",
-"index": 8,
+"index": 12,
 "image": "welcomepage_1.png",
 "image2x": "welcomepage_1@2x.png",
 "width": 414,
@@ -413,11 +596,23 @@ $.extend(new ViewerPage(),{
 },
 'type': 'regular',
 'fixedPanels': [],
-'links' : [],
+'links' : [
+	{
+		"rect": {
+			"x": 322,
+			"y": 707,
+			"width": 43,
+			"height": 25
+		},
+		"isParentFixed": false,
+		"page": 13,
+		"index": 0
+	}
+],
 })
 ,$.extend(new ViewerPage(),{
 "id" : "BF8BB1D5-FF17-4821-9421-976520950920",
-"index": 9,
+"index": 13,
 "image": "welcomepage_2.png",
 "image2x": "welcomepage_2@2x.png",
 "width": 414,
@@ -437,7 +632,7 @@ $.extend(new ViewerPage(),{
 })
 ,$.extend(new ViewerPage(),{
 "id" : "2E0404FB-2EB9-4F41-BC63-B4A4496265BC",
-"index": 10,
+"index": 14,
 "image": "welcomepage_4.png",
 "image2x": "welcomepage_4@2x.png",
 "width": 414,
@@ -457,7 +652,7 @@ $.extend(new ViewerPage(),{
 })
 ,$.extend(new ViewerPage(),{
 "id" : "6BEA7FC6-D3C0-4766-A9CA-994F3633A90C",
-"index": 11,
+"index": 15,
 "image": "welcomepage_3.png",
 "image2x": "welcomepage_3@2x.png",
 "width": 414,
@@ -478,10 +673,10 @@ $.extend(new ViewerPage(),{
    ]
 ,"resolutions": [2],
 "zoomEnabled": true,
-"title": "924-protfolio-app",
+"title": "925-protfolio-app",
 "startPageIndex": 0,
 "layersExist": true,
 "centerContent":  false,
-"totalImages": 12,
+"totalImages": 16,
 "highlightLinks": false
 }
